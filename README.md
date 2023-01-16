@@ -1,4 +1,4 @@
-## Minimal Reproducible Example for JavaFX bug 9173950
+## Minimal Reproducible Example for JDK-8299662
 
 :focus-within is set incorrectly after some TreeTable selection changes
 
